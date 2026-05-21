@@ -1,0 +1,19 @@
+{
+  "name": "influencer-analyst",
+  "owner": {
+    "name": "Sagar",
+    "url": "https://github.com/developer-plix"
+  },
+  "metadata": {
+    "description": "Instagram influencer analysis for Plix — pulls recent reels, extracts scripts, identifies hooks, and surfaces what's driving engagement.",
+    "version": "0.1.0",
+    "repository": "https://github.com/developer-plix/influencer-analysis-skill"
+  },
+  "plugins": [
+    {
+      "name": "influencer-analyst",
+      "description": "Deep-dive any public Instagram account — pull real reel data, extract scripts, identify hooks, and surface what's driving engagement. Built for the Plix team.",
+      "source": "./"
+    }
+  ]
+}
